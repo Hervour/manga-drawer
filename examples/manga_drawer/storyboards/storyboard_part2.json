@@ -1,0 +1,54 @@
+{
+  "project": "summer_overtime_heat_part2",
+  "title": "Part 2 - The Unexpected Visitor",
+  "part": 2,
+  "parts_total": 3,
+  "continuity": "Part 2 of 3, directly continuing Part 1 on the same night in the same apartment: immediately after the shower, the adult office lady discovers her adult male partner waiting in the living room. Keep the same apartment, yellow lamp lighting, wet hair, towel, sofa, body proportions, and facial features. The scene advances from surprise and mutual tension into adult intimacy on the sofa.",
+  "style": "full-color Japanese erotic manga in the manner of Mizuryu Kei, warm yellow-orange palettes, thick clean inked outlines, glossy sweaty skin highlights, cel-shaded volumes, exaggerated voluptuous adult anatomy, round soft faces with heavy blush, steam and heat haze, dramatic cinematic panel composition, rich saturated colors, no black-and-white screentone",
+  "character": "adult woman, 28 years old office lady, long glossy black hair, extremely voluptuous Mizuryu Kei body, huge heavy breasts, thick thighs, wide round hips, narrow waist, plump lips, flushed cheeks, large expressive eyes, after-work blouse and tight pencil skirt; male partner is a 30-year-old adult man, short dark hair, tall lean-muscular build, loosened dress shirt",
+  "negative_prompt": "minor, child, loli, school uniform as underage coding, text, watermark, logo, extra fingers, bad hands, deformed anatomy, blurry, black-and-white, screentone only, skinny body, flat chest",
+  "character_sheet": "../character_sheet.png",
+  "base_seed": 220000,
+  "defaults": {
+    "width": 768,
+    "height": 768,
+    "resolution": 768
+  },
+  "panels": [
+    {
+      "id": "p01",
+      "prompt": "wide shot, living room after the shower, adult woman wrapped in a short white towel that cannot cover her huge breasts and wide hips, towel riding up thick thighs, she freezes seeing an adult 30-year-old man sitting on the sofa in a loosened dress shirt, warm yellow lamp, surprised then hungry expressions, Mizuryu Kei color manga",
+      "dialogue": [
+        "你怎么进来的？",
+        "钥匙你上次不是给过我吗。看起来……等很久了？"
+      ],
+      "frame": "../roughs/p05.png"
+    },
+    {
+      "id": "p02",
+      "prompt": "medium shot, colorful erotic manga, the man pulls the adult woman onto his lap, towel slipping, one huge breast spilling free, her thick thighs straddling him, his hand gripping her wide hip, her round face flushed deep red, yellow lamplight, sweat, steam, thick clean lineart, exaggerated adult anatomy",
+      "dialogue": [
+        "等你的时候我已经湿透了。",
+        "那就别用毛巾挡了。"
+      ],
+      "frame": "../roughs/p06.png"
+    },
+    {
+      "id": "p03",
+      "prompt": "close-up, Mizuryu Kei style, adult woman's face in ecstasy while being kissed and groped, tongue, heavy blush, tears of pleasure at the corner of the eye, a large male hand squeezing a massive soft breast, glossy skin, yellow-orange color, saliva string, cinematic crop",
+      "dialogue": [
+        "嗯……舌头好深……胸部、再用力一点。"
+      ],
+      "frame": "../roughs/p07.png"
+    },
+    {
+      "id": "p04",
+      "prompt": "medium shot from a low angle, towel fully gone, adult woman on all fours on the sofa, extremely voluptuous ass and thick thighs toward the camera, dripping wet pussy, huge hanging breasts, the adult man behind her gripping her waist, erect cock pressing against her entrance, warm yellow interior, sweat flying, full-color erotic manga",
+      "dialogue": [
+        "别只顶着外面……进来。",
+        "这么会夹，一插进去你就会叫出来。"
+      ],
+      "frame": "../roughs/p08.png"
+    }
+  ]
+}

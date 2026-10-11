@@ -1,0 +1,51 @@
+{
+  "project": "summer_overtime_heat_part1",
+  "title": "Part 1 - Return Home and Shower",
+  "part": 1,
+  "parts_total": 3,
+  "continuity": "Part 1 of 3, same continuous night: after working overtime on a hot summer evening, the adult 28-year-old office lady returns alone to her small apartment. She enters, removes her heels, becomes increasingly overheated, and moves into the bathroom for a shower. Keep the apartment layout, warm yellow lighting, clothing, and the same adult character identical in every panel.",
+  "style": "full-color Japanese erotic manga in the manner of Mizuryu Kei, warm yellow-orange palettes, thick clean inked outlines, glossy sweaty skin highlights, cel-shaded volumes, exaggerated voluptuous adult anatomy, round soft faces with heavy blush, steam and heat haze, dramatic cinematic panel composition, rich saturated colors, no black-and-white screentone",
+  "character": "adult woman, 28 years old office lady, long glossy black hair, extremely voluptuous Mizuryu Kei body, huge heavy breasts, thick thighs, wide round hips, narrow waist, plump lips, flushed cheeks, large expressive eyes, after-work blouse and tight pencil skirt; male partner is a 30-year-old adult man, short dark hair, tall lean-muscular build, loosened dress shirt",
+  "negative_prompt": "minor, child, loli, school uniform as underage coding, text, watermark, logo, extra fingers, bad hands, deformed anatomy, blurry, black-and-white, screentone only, skinny body, flat chest",
+  "character_sheet": "../character_sheet.png",
+  "base_seed": 210000,
+  "defaults": {
+    "width": 768,
+    "height": 768,
+    "resolution": 768
+  },
+  "panels": [
+    {
+      "id": "p01",
+      "prompt": "wide shot, full-color Mizuryu Kei erotic manga, humid summer evening apartment hallway in warm yellow light, adult 28-year-old voluptuous office lady unlocking the door, sweat-soaked white blouse clinging to huge breasts, tight pencil skirt hugging wide hips and thick thighs, flushed round face, steam-like heat haze, glossy skin highlights, thick clean lineart",
+      "dialogue": [
+        "加班加到这个点……外面还这么热。"
+      ],
+      "frame": "../roughs/p01.png"
+    },
+    {
+      "id": "p02",
+      "prompt": "medium shot, colorful Mizuryu Kei manga, adult woman stepping into a small lit apartment, kicking off heels, unbuttoning the top of her blouse, heavy cleavage and sweat dripping into the valley of her breasts, yellow interior lamp glow, round blushing face looking toward the living room, saturated warm colors",
+      "dialogue": [
+        "先冲个澡……衣服全黏在身上了。"
+      ],
+      "frame": "../roughs/p02.png"
+    },
+    {
+      "id": "p03",
+      "prompt": "medium close-up, full-color erotic manga, bathroom steam in golden light, adult woman in a soaked half-unbuttoned blouse and unhooked bra, enormous breasts barely contained, nipples faintly visible through wet fabric, thick thighs, water droplets on glossy skin, Mizuryu Kei voluptuous proportions, heat-flushed expression",
+      "dialogue": [
+        "哈啊……热水一浇，脑袋都要融化了。"
+      ],
+      "frame": "../roughs/p03.png"
+    },
+    {
+      "id": "p04",
+      "prompt": "close-up, dramatic color panel, adult woman's face and upper torso in the shower, wet black hair stuck to cheeks, heavy-lidded eyes, open mouth, steam, huge wet breasts pressed together, water running over nipples, yellow-orange backlight, thick outlines, glossy highlights, erotic but painterly manga finish",
+      "dialogue": [
+        "身体好烫……光是冲水都受不了。"
+      ],
+      "frame": "../roughs/p04.png"
+    }
+  ]
+}

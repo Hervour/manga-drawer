@@ -1,0 +1,53 @@
+{
+  "project": "summer_overtime_heat_part3",
+  "title": "Part 3 - Climax and Afterglow",
+  "part": 3,
+  "parts_total": 3,
+  "continuity": "Part 3 of 3, direct continuation of Part 2 on the same sofa and same hot summer night: the adult couple continues their consensual adult intimacy to climax and then rests in afterglow. Keep the same two adult characters, apartment, yellow-orange lamp lighting, wet hair, flushed skin, sofa position, and Mizuryu Kei-style full-color erotic manga look.",
+  "style": "full-color Japanese erotic manga in the manner of Mizuryu Kei, warm yellow-orange palettes, thick clean inked outlines, glossy sweaty skin highlights, cel-shaded volumes, exaggerated voluptuous adult anatomy, round soft faces with heavy blush, steam and heat haze, dramatic cinematic panel composition, rich saturated colors, no black-and-white screentone",
+  "character": "adult woman, 28 years old office lady, long glossy black hair, extremely voluptuous Mizuryu Kei body, huge heavy breasts, thick thighs, wide round hips, narrow waist, plump lips, flushed cheeks, large expressive eyes, after-work blouse and tight pencil skirt; male partner is a 30-year-old adult man, short dark hair, tall lean-muscular build, loosened dress shirt",
+  "negative_prompt": "minor, child, loli, school uniform as underage coding, text, watermark, logo, extra fingers, bad hands, deformed anatomy, blurry, black-and-white, screentone only, skinny body, flat chest",
+  "character_sheet": "../character_sheet.png",
+  "base_seed": 230000,
+  "defaults": {
+    "width": 768,
+    "height": 768,
+    "resolution": 768
+  },
+  "panels": [
+    {
+      "id": "p01",
+      "prompt": "dramatic insertion close-up, full-color Mizuryu Kei erotic manga, adult penis thrusting into a plump wet adult vagina, thick thighs shaking, juices, glossy highlights, heavy inking, yellow lamplight on sweaty skin, motion lines, explicit but stylized manga anatomy, no underage traits",
+      "dialogue": [
+        "啊——好满……一下子顶到最里面了。"
+      ],
+      "frame": "../roughs/p09.png"
+    },
+    {
+      "id": "p02",
+      "prompt": "medium shot, cowgirl position, adult 28-year-old woman bouncing on the adult man's cock, enormous breasts bouncing with motion blur, wet black hair, ahegao-adjacent flushed round face with tongue slightly out, thick thighs gripping his waist, sweat spray, saturated yellow-orange color, Mizuryu Kei volume and shine",
+      "dialogue": [
+        "哈、哈啊……里面在跳……不要停。",
+        "夹这么紧，是想把我榨出来吗。"
+      ],
+      "frame": "../roughs/p10.png"
+    },
+    {
+      "id": "p03",
+      "prompt": "close-up climax panel, colorful erotic manga, adult woman's face and breasts at orgasm, crossed eyes, open moaning mouth, tears, saliva, huge breasts squeezed together, male hands on her hips, cream pie implied at the lower edge of the frame, explosive yellow backlight, thick outlines, glossy skin",
+      "dialogue": [
+        "去了……全部射进来——！"
+      ],
+      "frame": "../roughs/p11.png"
+    },
+    {
+      "id": "p04",
+      "prompt": "wide afterglow shot, full-color Mizuryu Kei manga, adult couple collapsed on the sofa in warm yellow lamplight, woman lying on his chest with huge soft breasts pressed against him, semen leaking down her thick thigh, satisfied sleepy smile, messy black hair, sweat, steam, intimate and sticky atmosphere, clean thick lineart",
+      "dialogue": [
+        "下次……加班结束直接回家。",
+        "钥匙就别收回去了。"
+      ],
+      "frame": "../roughs/p12.png"
+    }
+  ]
+}

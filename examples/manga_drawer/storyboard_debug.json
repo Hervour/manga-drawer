@@ -1,0 +1,23 @@
+{
+  "project": "debug_one_panel",
+  "style": "full-color Japanese erotic manga in the manner of Mizuryu Kei, warm yellow-orange palettes, thick clean inked outlines, glossy sweaty skin highlights, cel-shaded volumes, exaggerated voluptuous adult anatomy, round soft faces with heavy blush, steam and heat haze, dramatic cinematic panel composition, rich saturated colors, no black-and-white screentone",
+  "character": "adult woman, 28 years old office lady, long glossy black hair, extremely voluptuous Mizuryu Kei body, huge heavy breasts, thick thighs, wide round hips, narrow waist, plump lips, flushed cheeks, large expressive eyes, after-work blouse and tight pencil skirt; male partner is a 30-year-old adult man, short dark hair, tall lean-muscular build, loosened dress shirt",
+  "negative_prompt": "minor, child, loli, school uniform as underage coding, text, watermark, logo, extra fingers, bad hands, deformed anatomy, blurry, black-and-white, screentone only, skinny body, flat chest",
+  "character_sheet": "character_sheet.png",
+  "base_seed": 100000,
+  "defaults": {
+    "width": 768,
+    "height": 768,
+    "resolution": 768
+  },
+  "panels": [
+    {
+      "id": "p01",
+      "prompt": "wide shot, full-color Mizuryu Kei erotic manga, humid summer evening apartment hallway in warm yellow light, adult 28-year-old voluptuous office lady unlocking the door, sweat-soaked white blouse clinging to huge breasts, tight pencil skirt hugging wide hips and thick thighs, flushed round face, steam-like heat haze, glossy skin highlights, thick clean lineart",
+      "dialogue": [
+        "加班加到这个点……外面还这么热。"
+      ],
+      "frame": "roughs/p01.png"
+    }
+  ]
+}
